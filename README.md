@@ -1,8 +1,11 @@
-# React + Vite Custom Starter
-
 A simple custom react project starter template.
 
-## Libraries
+### Features
+- Absolute path (@ aliase)
+
+
+### Libraries
 
 - tailwindcss
 - react-router-dom
+- prettier-plugin-tailwindcss
