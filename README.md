@@ -1,7 +1,7 @@
 A simple custom react project starter template.
 
 ### Features
-- Absolute path (@ aliase)
+- Absolute path (@ alias)
 
 
 ### Libraries
