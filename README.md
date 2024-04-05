@@ -1,11 +1,3 @@
-A simple custom react project starter template.
+# README
 
-### Features
-- Absolute path (@ alias)
-
-
-### Libraries
-
-- tailwindcss
-- react-router-dom
-- prettier-plugin-tailwindcss
+A simple vite react project starter template.
